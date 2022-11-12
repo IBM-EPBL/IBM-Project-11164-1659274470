@@ -3,7 +3,7 @@ Personal Assistance for Seniors Who Are Self-Reliant
 This repo is our project which was done under the guidance of IBM-Nalaiya Thiran Scheme
 
 
-App link(Android): http://ai2.appinventor.mit.edu/b/5wf5k
+App link(Android): https://drive.google.com/drive/folders/12Ue5Wnx7KEKz7-pM9cKrWo6z2oJ_tZEp
 
 Sometimes elderly people forget to take their medicine at the correct time.
 They also forget which medicine He / She should take at that particular time.
