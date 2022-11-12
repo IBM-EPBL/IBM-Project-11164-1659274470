@@ -1,6 +1,8 @@
 # IBM-Project-11164-1659274470
 Personal Assistance for Seniors Who Are Self-Reliant
 This repo is our project which was done under the guidance of IBM-Nalaiya Thiran Scheme
+
+
 App link(Android): http://ai2.appinventor.mit.edu/b/5wf5k
 
 Sometimes elderly people forget to take their medicine at the correct time.
@@ -11,6 +13,7 @@ If the medicine time arrives the web application will send the medicine name to 
 The device will receive the medicine name and notify the user with voice commands.
 
 TEAM ID:PNT2022TMID29008
+
 ASSIGNMENTS : https://github.com/IBM-EPBL/IBM-Project-11164-1659274470/tree/main/Assignments
 MEMBERS:
 LAVANYA R (TEAM LEADER)
