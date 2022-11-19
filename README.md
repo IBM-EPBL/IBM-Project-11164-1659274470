@@ -7,6 +7,16 @@ App link(Android): https://drive.google.com/drive/folders/12Ue5Wnx7KEKz7-pM9cKrW
 
 Medicine reminder webui: http://169.51.205.96:30776/ui/#!/0?socketid=_d82xWKhMSNJtHcZAAAJ
 
+Demo video:
+
+Youtube:
+
+https://youtu.be/LP31mVLPDhM
+
+Dropbox:
+
+https://www.dropbox.com/sh/z70lgb4udoc1c2x/AADomI1hfsCEJxtjKlkrgvYaa?dl=0
+
 Sometimes elderly people forget to take their medicine at the correct time.
 They also forget which medicine He / She should take at that particular time.
 And it is difficult for doctors/caretakers to monitor the patients around the clock. To avoid this problem, this medicine reminder system is developed.
