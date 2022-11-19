@@ -5,6 +5,8 @@ This repo is our project which was done under the guidance of IBM-Nalaiya Thiran
 
 App link(Android): https://drive.google.com/drive/folders/12Ue5Wnx7KEKz7-pM9cKrWo6z2oJ_tZEp
 
+Medicine reminder webui: http://169.51.205.96:30776/ui/#!/0?socketid=_d82xWKhMSNJtHcZAAAJ
+
 Sometimes elderly people forget to take their medicine at the correct time.
 They also forget which medicine He / She should take at that particular time.
 And it is difficult for doctors/caretakers to monitor the patients around the clock. To avoid this problem, this medicine reminder system is developed.
