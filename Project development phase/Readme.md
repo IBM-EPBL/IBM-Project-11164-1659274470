@@ -6,10 +6,9 @@ Creating dashboard,add medicine,prescriptions,schedule,medicine reminder using p
 
 SPRINT3:
 1.Created web ui using node red and stored medicines in cloudant database.IBM IOT watson receives the medicine name,date and time.
-
 2. created iot device
-
 3. text to speech service
+4. Simulation using ESP32 to remind the user medicine name at time using cloudantdb,node red and ibm watson iot platform.
 
 SPRINT 4:
 
